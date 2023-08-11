@@ -32,3 +32,5 @@ Rede Sem-Fio (Wifi - Wireless)
    2.4Ghz: 802.11 BGN -->
    5.0Ghz: 802.11 AC  -->
    Segurança -----------> WEP - WPA2
+==================================================================
+*Em roteadores da marca CISCO as portas de rede sempre estarão desligadas*
